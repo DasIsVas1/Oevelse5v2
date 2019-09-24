@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        String myUsername = "DasIsVas1";
+        String myUsername = "Lise";
         String myPassword = "1234";
 
         if(!User.validateUsername(myUsername)) {
